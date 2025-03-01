@@ -18,3 +18,6 @@ MedDialog (Doctor-Patient Conversations) → https://github.com/UCSD-AI4H/Medica
 HIPAA Official Guidelines → https://www.hhs.gov/hipaa/
 GDPR Compliance for AI & Chatbots → https://gdpr.eu/
 OWASP Data Security Best Practices → https://owasp.org/www-project-top-ten/
+
+
+https://chatgpt.com/share/67c2962d-2964-800c-94fa-41312cf31ddd
